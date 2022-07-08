@@ -1,0 +1,117 @@
+{
+	"name": "England",
+	"theme": {
+		"bg_color": "#FFF",
+		"col_1":	"#dc3545",
+		"col_2":	"#007BFF"
+	},
+	"flag": 		"england.png",
+	"capital" : 	"London",
+	"population": 	"~ 68,612,125",
+	"currency": {
+		"name":	"Pound sterling",
+		"img":	"??"
+	},
+	"area":			"132,938 KM Squared",
+	"neighbors": {
+		"north": [{"name":"Scotland","flag": "scotland"}],
+		"south": [{"name": "English Channel"},{"name": "France","flag": "france"}],
+		"west": [{"name":"Wales","flag": "wales"},{"name": "Ireland","flag": "ireland"}],
+		"east": [{"name":"North Sea"}]
+	},
+	"history": [
+		{"title": "Pre-History",
+		"content": "There Isn't Much To Say About This Period Of Time, How Man Kind Reached English Lands Is Not Certain Fact, People Lived In Groups Known As (Tribes) In Which They Had To Fight Each Other.",
+		"year": "?? - 43 A.D."},
+		
+		{"title": "Romans",
+		"year": "43 A.D. - C.410",
+		"content": "By The Year 43 A.D. It Was The Roman Invasion Of England, Took Them Years To Fully Conquer England, Transfering Latin Language, Building Cities, Roads and Making Laws, However Roman Couldn't Invaide Scoutland, They've Built The Hadrian's Wall To Protect Them From Scoutish Tribes. In Late C.410 Roman Soldiers Began To Leave England Giving The Way For Angelo-Saxon To Arrive."}
+	],
+	"food": [
+		
+		{
+			"name": "Fish and Chips",
+			"img": 	"fish-and-chips.jpg",
+			"content": ""
+		},
+		{
+			"name": "Bangers and Mash",
+			"img": 	"banger-and-mash.webp",
+			"content": ""
+		},
+		{
+			"name": "English Breakfast",
+			"img": "",
+			"content": ""
+		},
+		{
+			"name": "Sunday Roast",
+			"img":  "",
+			"content": ""
+		},
+		{
+			"name": "Toad in the Hole",
+			"img":  "",
+			"content": ""
+		},
+		{
+			"name": "Shepherd’s Pie",
+			"img":  "",
+			"content": ""
+		},
+		{
+			"name": "Steak and Kidney Pie",
+			"img":  "",
+			"content": ""
+		}
+	],
+	"landmarks": [
+		{
+			"name": "Lake Windermere",
+			"img": "lake-windermere.webp",
+			"location": "Cumbria",
+			"content": ""
+		},
+		{
+			"name": "Hadrian's Wall",
+			"img": "hadrians-wall.webp",
+			"location": "Brampton",
+			"content": ""
+		},
+		{
+			"name": "Durham Cathedral",
+			"img": "durham-cathedral.webp",
+			"location": "Durham",
+			"content": ""
+		},
+		{
+			"name": "Coventry Cathedral",
+			"img": "",
+			"location": "",
+			"content": ""
+		},
+		{
+			"name": "",
+			"img": "",
+			"location": "",
+			"content": ""
+		},
+		{
+			"name": "",
+			"img": "",
+			"location": "",
+			"content": ""
+		},
+		{
+			"name": "",
+			"img": "",
+			"location": "",
+			"content": ""
+		}
+	],
+	"facts": [
+		"The Queen Is Not Allowed Into The House Of Commons ( The Parlament )",
+		"England Fought The Fastest War In The World"
+	]
+}
