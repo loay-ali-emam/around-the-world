@@ -1,0 +1,15 @@
+{
+	"countries": [
+		{"name": "Egypt","x": "52.2","y": "39","code": "eg"},
+		{"name": "USA","x" :"21","y": "34","code": "usa"},
+		{"name": "Canada","x": "15","y": "25","code": "ca"},
+		{"name": "Russia","x": "70","y":"20","code": "ru"},
+		{"name": "China","x": "69","y": "36","code": "ch"},
+		{"name": "Spain","x": "44.2","y": "33","code": "sp"},
+		{"name": "Italy","x": "48.5","y": "31.5","code": "it"},
+		{"name": "India","x": "64","y": "42.5","code": "in"},
+		{"name": "Turkey","x": "55","y": "33.25","code": "tu"},
+		{"name": "Japan","x": "78.5","y": "34.25","code": "ja"},
+		{"name": "Brazil","x": "32.5","y": "55","code": "br"}
+	]
+}

@@ -1,117 +1,245 @@
 {
 	"name": "England",
+	"languages": ["English"],
 	"theme": {
 		"bg_color": "#FFF",
 		"col_1":	"#dc3545",
 		"col_2":	"#007BFF"
 	},
-	"flag": 		"england.png",
+	"flag": 		"https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/150px-Flag_of_England.svg.png",
 	"capital" : 	"London",
-	"population": 	"~ 68,612,125",
+	"population": 	"https://raw.githubusercontent.com/samayo/country-json/master/src/country-by-population.json",
+	"anthem": 		"https://nationalanthems.info/eng!lhg.mp3",
 	"currency": {
 		"name":	"Pound sterling",
-		"img":	"??"
+		"img":	"https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Bank_of_England_%C2%A350_Series_G_obverse.jpg/252px-Bank_of_England_%C2%A350_Series_G_obverse.jpg"
 	},
 	"area":			"132,938 KM Squared",
-	"neighbors": {
+	"neighbours": {
 		"north": [{"name":"Scotland","flag": "scotland"}],
 		"south": [{"name": "English Channel"},{"name": "France","flag": "france"}],
 		"west": [{"name":"Wales","flag": "wales"},{"name": "Ireland","flag": "ireland"}],
 		"east": [{"name":"North Sea"}]
 	},
+	"weather": {
+		
+		"summer": {	
+					"content": "Warm, Wet and Sometimes Sunny",
+					"icons": [],
+					"img": ""},
+		"winter": {
+					"content": "Cloudy, Cold, Foggy In Inner Parts and Low Chance For Snowfalls",
+					"icons": [],
+					"img": ""},
+		"spring": {
+					"content": "Very Cool, Rainy and Mostly Sunny In June",
+					"icons": [],
+					"img": ""},
+		"automn": {
+					"content": "Cloudy, Foggy and Sometimes Windy In Some Parts",
+					"icons": [],
+					"img": ""},
+		"summery": "England Is Mostly Rainy All Year, However The Weather May Vary From Place To Another"
+	},
+	"art": [
+		{
+		"title": "Tea Drinking",
+		"content": "English People Are One Of The Most Tea Drinkers In The World, Tea Came In 17th Century From India, First It Was Popular Among Top Class as a Show Of Wealth, After That It Became more Popular Among Working-class",
+		"img": ""
+		},
+		{
+		"title": "Ancient Wounderful Castles and Country Houses",
+		"content": "England Is Famous With It's Castles and Country Houses, Their Are More Than 800 Castle and More Than 1500 Country House Spread Across The Country, Some Of Them Were Built 1000 Years Ago",
+		"img": ""
+		},
+		{
+		"title": "English Litrature",
+		"content": "England Has a Great History In Litrature and Story Telling and Famous Writers Such as William Shakespeare, Chalres Dickens Agatha Christie, J.K. Rowling and Many More",
+		"img": ""
+		},
+		{
+		"title": "Football",
+		"content": "The Most Popular Sport In England, Having The Oldest League and Cup Competation In History, First Competation Was Held In London In 1863, Right Now English League ( Premier League ) Is Considered The Best",
+		"img": ""
+		},
+		{
+		"title": "Theatre",
+		"content": "Owning The Best Known Plays In The World, England Has Amazing Plays Such As Hamlet, Death Of Salesman, a Raisin In The Sun. and Famous Play Writers Like William Shakespeare, Arthur Miller Lorraine Hansberry To Name a Few.",
+		"img": ""
+		},
+		{"title": "The Beatles",
+		"content": "a Rock Band Formed In 1960 In Liverpool, Is The Best Selling Band In The History, Along Side Many Other Achievements and Awards.",
+		"img": "",
+		}
+	],
 	"history": [
 		{"title": "Pre-History",
 		"content": "There Isn't Much To Say About This Period Of Time, How Man Kind Reached English Lands Is Not Certain Fact, People Lived In Groups Known As (Tribes) In Which They Had To Fight Each Other.",
-		"year": "?? - 43 A.D."},
+		"year": "?? - 43 A.D.",
+		"img": ""},
 		
 		{"title": "Romans",
+		"img": "",
 		"year": "43 A.D. - C.410",
-		"content": "By The Year 43 A.D. It Was The Roman Invasion Of England, Took Them Years To Fully Conquer England, Transfering Latin Language, Building Cities, Roads and Making Laws, However Roman Couldn't Invaide Scoutland, They've Built The Hadrian's Wall To Protect Them From Scoutish Tribes. In Late C.410 Roman Soldiers Began To Leave England Giving The Way For Angelo-Saxon To Arrive."}
+		"content": "By The Year 43 A.D. It Was The Roman Invasion Of England, Took Them Years To Fully Conquer England, Transfering Latin Language, Building Cities, Roads and Making Laws, However Roman Couldn't Invaide Scoutland, They've Built The Hadrian's Wall To Protect Them From Scoutish Tribes. In Late C.410 Roman Soldiers Began To Leave England Giving The Way For Angelo-Saxon To Arrive."},
+		
+		{"title": "Angelo-Saxon",
+		"img": "",
+		"year": "410 - 793",
+		"content": "after Romans Left England The Angelo-Saxon ( Empire From Germany, Netherlands and Denmark ) Invaded England, Building Their Villages Near Rivers and Sea, Using Wood To Build It, Separating The Country into 7 Kingdoms, each Kingdom Has It's Own King, In This Era Slavery Existed, Slaves Used To Work For Their Masters For Food. By That Time Groups From North ( Norway, Sweden and Denmark ) Called ( Vikings ) Was Trying To Invade England, Fighting So Many Wars, Giving a Part Of The Country To Vikings For Piece."},
+		
+		{"title": "Vikings",
+		"img": "",
+		"year": "793 - 1066",
+		"content": "Vikings are a Group of People From Norway, Sweden and Denmark. The Vikings Fought the Anglo-Saxon In Many Many Battles, Some Vikings Were Named Kings In England In This Era, However They Didn't Last Long as The Anglo-Saxon Were Fighting Them Back and Finally They Falled Back as The King Edward (an Anglo-Saxon) Rules England."},
+		
+		{"title": "The Normans",
+		"year": "1066 - 1485",
+		"content": "as King Edward Died They Were Looking For The Next King, and as He Did Not Have any Children They Let King Harold ( One Of The Nobles ) Rule, However King Harold's Cousin William - From Norman In North Of France - Believed He Is The Rightful King, So In October 1066 He Brought a Big Norman Army To France, Fighting Each Other In The Battle OF Hastings and as William The Conquerer - What He Was Named After - Won The Battle He Became The First Norman King To England. By That Time a Killer Disease Showed In England Killing Nearly 37.5% Of The Population.",
+		"img": "",
+		"flag": "en.png"},
+		
+		{"title": "Tudors",
+		"year": "1485 - 1603",
+		"content": "From 1455 and For Nearly 30 Years, Many Terrible Battles Were Held Between People Who Wanted a Different Family To Rule, In 1485 Henry Tudor Became The King ( Henry The Seventh ), In Second Half Of The Sixteenth Century ( In Queen's Elizabeth Era ) Theatres Were Made Popular To People, Many Books, Peotries and Plays Were Written By That Time, William Shakespeare Was One Of The Best Plays and Poetries Writer and Considered The Best Til Now.",
+		"img": "",
+		"flag": "en.png"},
+		
+		{"title": "Stuarts",
+		"year": "1603 - 1714",
+		"content": "After Queen Elizebeth Died In 1603 Kings and Queens Called The Stuarts To Rule - Were From Scotland - It Was The First Time England and Scotland Were One Kingdom, In 1642 - Under King Charles The First Era - a Civil War Took Place For Nearly 7 Years Between The King's Men and The Parliament's Men Which The Parliaments Won With Teir Leader Oliver Cromwell and King Charles Was Executed, By That Time Large Parts Of London Were Burnt In The Great Fire Of London and England Started Its First Colonies In Different Places In The World Like America, In 1707 The Act Of Union Brought England, Wales and Scotland In What It's Known Now as Great Britain.",
+		"img": "",
+		"flag": "en.png"},
+		{
+		"title": "The Georgeans",
+		"year" : "1714 - ",
+		}
 	],
 	"food": [
 		
 		{
-			"name": "Fish and Chips",
-			"img": 	"fish-and-chips.jpg",
-			"content": ""
+			"title": "Fish and Chips",
+			"img": 	"",
+			"content": "Classic English Dish, Basically a Fried Potatoes and Fish, Fried In Beef Dripping and Lard Or Vegetable Oil."
 		},
 		{
-			"name": "Bangers and Mash",
-			"img": 	"banger-and-mash.webp",
-			"content": ""
+			"title": "Shepherd's Pie",
+			"img": 	"",
+			"content": "a British French Dish, a Savoury Dish Of Cooked Minced Meat Topped With Mashed Potato and Baked."
 		},
 		{
-			"name": "English Breakfast",
+			"title": "Scotch Egg",
 			"img": "",
-			"content": ""
+			"content": "Bioled Egg Wrapped In Sausage Meat, Coated In Breadcrumbs and Baked Or Fried In Oil."
 		},
 		{
-			"name": "Sunday Roast",
+			"title": "English Pancakes",
 			"img":  "",
-			"content": ""
+			"content": "Similar To American Pancakes Yet More Thinner and Have No Leavening, Also Close To French Crepe."
 		},
 		{
-			"name": "Toad in the Hole",
+			"title": "Yorkshire Pudding",
 			"img":  "",
-			"content": ""
+			"content": "Baked Pudding From The Batter Of Eggs, Flour and Milk Or Water."
 		},
 		{
-			"name": "Shepherd’s Pie",
+			"title": "English Trifle",
 			"img":  "",
-			"content": ""
+			"content": "Layered Dessert That Contains Custard, Sherry Soaked Cake, Fruit, Jam and Whipped Cream."
 		},
 		{
-			"name": "Steak and Kidney Pie",
+			"title": "Toad In The Hole",
 			"img":  "",
-			"content": ""
+			"content": "a Traditional English Dish, Consisting of Sausages, Onion Gravy and Vegetables."
+		},
+		{
+			"title": "Steak and Kidney Pie",
+			"img": "",
+			"content": "Popular British Dish, a Savoury Pie Filled With a Mix Of Diced Beef and Diced Kidney and Onion."
+		},
+		{
+			"title": "Lancashire Hot Pot",
+			"img": "",
+			"content": "a Stew Contains Lamp/Mutton and Onion, Covered In Sliced Potatoes, Baked In Heavy Pot On a Low Heat."
 		}
 	],
 	"landmarks": [
 		{
-			"name": "Lake Windermere",
-			"img": "lake-windermere.webp",
-			"location": "Cumbria",
-			"content": ""
-		},
-		{
-			"name": "Hadrian's Wall",
-			"img": "hadrians-wall.webp",
-			"location": "Brampton",
-			"content": ""
-		},
-		{
-			"name": "Durham Cathedral",
-			"img": "durham-cathedral.webp",
-			"location": "Durham",
-			"content": ""
-		},
-		{
-			"name": "Coventry Cathedral",
+			"title": "Buckingham Palace",
 			"img": "",
-			"location": "",
+			"location": "London",
+			"content": "Home and Office To The Royal Family, Originally a Town House For Duke Of Buckingham In 1703, Bought By George III In 1762"
+		},
+		{
+			"title": "StoneHenge",
+			"img": "",
+			"location": "Wiltshire",
+			"content": "Reach Around 13 Feet High and Weight Around 25 Tonnes, No Idea On Who Built It, Why Or Even How It Was Built"
+		},
+		{
+			"title": "House Of Parliament",
+			"img": "",
+			"location": "London",
 			"content": ""
 		},
 		{
-			"name": "",
+			"title": "Big Ben",
 			"img": "",
-			"location": "",
+			"location": "London",
 			"content": ""
 		},
 		{
-			"name": "",
+			"title": "Windsor Castle",
 			"img": "",
-			"location": "",
-			"content": ""
+			"location": "Berkshire",
+			"content": "The Royal Residence, Has Been Around For 950 Years"
 		},
 		{
-			"name": "",
+			"title": "Canterbury Cathedral",
 			"img": "",
-			"location": "",
-			"content": ""
+			"location": "Kent",
+			"content": "Founded In 597, Witnessed Much Upgrades and Expansions"
+		},
+		{
+			"title": "White Cliffs OF Dover",
+			"img": "",
+			"location": "Dover",
+			"content": "On The South Borders, Considered a Natural Defense Wall Through Many Wars Including World War II"
+		},
+		{
+			"title": "Blackpool Tower",
+			"img": "",
+			"location": "Lancashire",
+			"content": "Built In 1894, Was Considered For Many Years The Highest Building In England ( 518 Ft. )"
+		},
+		{
+			"title": "Tower Bridge",
+			"img": "",
+			"location": "London",
+			"content": "Built In 1894, Used Steam For Power Until It Was Electrified In 1976, It Could Be Opened To Allow Big Ships To Pass"
+		},
+		{
+			"title": "Hadrian's Wall",
+			"img": "",
+			"location": "North Side",
+			"content": "Built By The Romans In 122 A.D. To Protect Them From The Barbarians In The North"
 		}
 	],
 	"facts": [
-		"The Queen Is Not Allowed Into The House Of Commons ( The Parlament )",
-		"England Fought The Fastest War In The World"
+		{"title": "The Queen Is Not Allowed Into The House Of Commons ( The Parlament )"
+		"content": "Back To King Charles I, In January 1642, He Approached The Parliament With Several Amry Soldiers To Arrest 5 MPs Members For Treason, An Action Which Led To Civil War After"},
+		{"title": "Fastest War In History",
+		"content": "They Fought The Fastest War Against East Africa Island ( Zanzibar ), It Lasted Only For 40 Minutes"},
+		"Jumping a Queue Could Be Illegal",
+		"England Is Home To The Weirdest Sport ( Cheese Rolling )",
+		"You Can't Get Drunk In English Pub",
+		"Winchester Was The First Capital ( 827 - 1066 )",
+		"Sticking a Postage Stamp to an Envelope upside down is Illegal",
+		"English People Drink Tea 20 Times More Than The Americans",
+		{"title": "Towns and Cities Names Do Tell Us About Their History",
+		"content": "Towns With (Chester) and (cester) In The End Of It Refer To Roman Empire Towns Like Manchester, Towns With (Burh) Sound Like Parts Refer To The Anglo-Saxon Era Towns and Towns That End With (by) Refer To Vikings Towns Like Derby."}
+	],
+	"resources": [
+		
 	]
 }

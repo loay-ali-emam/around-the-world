@@ -1,0 +1,157 @@
+{
+	"name": "Egyot",
+	"languages": ["Arabic"],
+	"theme": {
+		"bg_color": "",
+		"col_1": "",
+		"col_2": ""
+	},
+	"flag": 		"",
+	"anthem": 		"",
+	"capital": 		"Cairo",
+	"population": 	"",
+	"area": 		"1,001,00 KM Squared",
+	"currency" : {
+		"name": 	"Egyptian Pound",
+		"img": 		""},
+	"neighbours": {
+		
+		"north": [{"name": "Red Sea"}],
+		"south": [{"name": "Sudan","flag": ""}],
+		"east":  [{"name": "Palestine","flag": ""},{"name": "KSA","flag": ""}],
+		"west":  [{"name": "Libya","flag": ""}]
+	},
+	"weather": {
+		
+		"summer": {"content": "","icons": [],"img": ""},
+		"winter": {},
+		"spring": {},
+		"automn": {},
+		"summary": ""
+	},
+	"art": [
+	
+		{
+			"title": "",
+			"img": "",
+			"content": ""
+		}
+	],
+	"food": [
+	
+		{
+			"title": "Koshary",
+			"img": "",
+			"content": "a Mixture Of Rice, Macaroni, Lentils, Chickpeas, Fried Onions and a Special Egyptian Red Sauce, Very Popular Dish Amoung All The Egyptians"
+		},
+		{
+			"title": "Tarb ( Grilled Kofta Wrapped In Lamb Fat)",
+			"img": "",
+			"content": "'Kofta' Is Made Of Minced Meat, Onion and a Bit Of Minced Fat, This Mixture Get Wrapped In Lamb Fat and Grilled"
+		},
+		{
+			"title": "Molokhiya",
+			"img": "",
+			"content": "Is Made From Shredded Green Leaves Named 'Molokhiya', Mixed With Garlic and Spices, Often Served With Meat, Chicken and Even Rabbits"
+		},
+		{
+			"title": "Mahshy ( Stuffed Veggies )",
+			"img": "",
+			"content": "Different Kind Of Veggies Stuffed With Rice and Mixture Of Vegetables and Spices"
+		},
+		{
+			"title": "Hawawshi ( Meat Sandwich )",
+			"img": "",
+			"content": "Minced Meat Stuffed Inside Egytian Bread, Buttered and Then Baked"
+		},
+		{
+			"title": "Macarona Bechamel ( Baked Pasta )",
+			"img": "",
+			"content": "a Meal Consists Of 3 Layers, First Boiled Pasta In the Bottom, Minced Beef and Often Other Stuff, and Finally The Bechamel ( a Delicious White Sauce )"
+		},
+		{
+			"title": "Feseekh ( Fermented and Salted Fish )",
+			"img": "",
+			"content": "an Ancient Meal Came Back From Ancient Pharaohs Time, Served With Green Onions and Egyptian Bread, This Meal May Vary From Person to Another, Some Find It Delicious and Some Don't"
+		},
+		{
+			"title": "Konafa",
+			"img": "",
+			"content": "Popular Dessert For The Egyptians, Specially In The Holy Month Of Ramadan, Consists Of Long Threads Of Vermicelli-like Dough and It Came With Many Different Additions ( Nutella, Mangoes, Nuts and Milk, Many More )"
+		}
+	],
+	"landmarks": [
+	
+		{
+			"title": "Pyramids Of Giza",
+			"img": "",
+			"content": "One Of The Oldest and Major Landmarks In The World, It Was Built 7000 Years Ago, Made By Limestone",
+			"location": "Giza"
+		},
+		{
+			"title": "Abu Simbel Temples",
+			"img": "",
+			"content": "Built For King Ramesses II and His Wife, Was Built In The 13th Century B.C.",
+			"location": "Near Aswan"
+		},
+		{
+			"title": "Valley Of The Kings",
+			"img": "",
+			"content": "Built Between 1539 and 1075 B.C., Include 62 Tombs For Kings and Queens",
+			"location": "Luxor"
+		},
+		{
+			"title": "Mosque Of Muhammed Ali",
+			"img": "",
+			"content": "Located In The Citadel Of Cairo, Established In Around 1830 To 1848, Was Built For The Memory Of Muhammed Ali's Son ( Tusun Pasha )",
+			"location": "Cairo"
+		},
+		{
+			"title": "Khan El-Khalili",
+			"img": "",
+			"content": "a Popular Old Bazar In Old Cairo, Established In 14th Century, The Location Itself Includes Some Famous Landmarks Such as El-Hussien Mosque and El-Fishawi Cafe The Oldest Cafe In Egypt 1797",
+			"location": "Cairo"
+		},
+		{
+			"title": "Saint Catherine's Monastery",
+			"content": "Constructed In 500 AD, On Top Of a Moutain In Sinai, a Holy Christaine Place Visited By Thousands Of People",
+			"img": "",
+			"location": "Sinai"
+		},
+		{
+			"title": "Citadel Of Qaitbay",
+			"img": "",
+			"content": "Built On The Same Location Of The Old Alexandrian Lighhouse, Was Made To Protect The City From Ottoman Empire Threats",
+			"location": "Alexandria"
+		},
+		{
+			"title": "Temple Of Philae",
+			"img": "",
+			"content": "Located In a Small Island In Aswan, Was Built In 280 B.C., The Location Was Saved From Floods Thanks To The Great Dame Of Aswan, UNISCO and The Egyptian Government",
+			"location": "Aswan"
+		}
+	],
+	"history": [
+	
+		{"title": "",
+		"content": "",
+		"year": "",
+		"img": ""}
+	],
+	"facts": [
+		"",
+		{"title": "","content": ""}
+	],
+	"resources": [
+		{
+			"resources": [],
+			"author": "",
+			"authorUrl": "",
+			"from": "",
+			"url": "",
+			"social": [
+				{"url": "","icon": ""}
+			]
+		}
+	]
+}
