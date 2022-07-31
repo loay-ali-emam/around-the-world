@@ -8,7 +8,7 @@
 	},
 	"flag": 		"https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/150px-Flag_of_England.svg.png",
 	"capital" : 	"London",
-	"population": 	"https://raw.githubusercontent.com/samayo/country-json/master/src/country-by-population.json",
+	"population": 	"63",
 	"anthem": 		"https://nationalanthems.info/eng!lhg.mp3",
 	"currency": {
 		"name":	"Pound sterling",
