@@ -1,5 +1,5 @@
 {
-	"name": "Egyot",
+	"name": "Egypt",
 	"languages": ["Arabic"],
 	"theme": {
 		"bg_color": "",
@@ -23,11 +23,23 @@
 	},
 	"weather": {
 		
-		"summer": {"content": "","icons": [],"img": ""},
-		"winter": {},
-		"spring": {},
-		"automn": {},
-		"summary": ""
+		"summer": {	"content": "Summer Is Hot In Egypt, Temprature Could Reach 45 C In August",
+					"icons": [],
+					"img": ""},
+					
+		"winter": {	"content": "Cloudy With Some Chances For Rainfalls, Temprature Could Reach Below 20 C",
+					"icons": [],
+					"img": ""},
+					
+		"spring": { "content": "Mostly Sunny, Sometimes There Could Be Minor Sandy Storms",
+					"icons": [],
+					"img": ""},
+					
+		"automn": { "content": "Windy and Rainy Yet Still Warm",
+					"icons": [],
+					"img": ""},
+					
+		"summary": "The Average Weather In Egypt Is Sunny and Cool, However It May Be Very Hot In The South"
 	},
 	"art": [
 	
@@ -139,8 +151,14 @@
 		"img": ""}
 	],
 	"facts": [
-		"",
-		{"title": "","content": ""}
+		"Egyptians are First To Discover Paper and Ink",
+		"There're Around 130 Pyramids In Egypt",
+		"Egyptians Invented the 365-day Calendar",
+		"Bandages Of an Ancient Mummy Could Be Stretched To 1.6 KM",
+		"Sinai Has The Moutain In Which Prophet ( Musa ) Climb To Talk To God",
+		"Egypt Have One Of The Biggest Dams In The World ( Dam Of Aswan )",
+		{"title": "Rich Alphabet",
+		"content": "The Old Egyptian Languague ( Hieroglyphs ) Has About 700 Symbols, That's 27 Times The Latin Alphabet"}
 	],
 	"resources": [
 		{
@@ -152,6 +170,10 @@
 			"social": [
 				{"url": "","icon": ""}
 			]
+		},
+		{
+			"resources": ["Weather"],
+			"url": "https://www.weatherspark.com/y/96939/Average-Weather-in-Cairo-Egypt-Year-Round"
 		}
 	]
 }

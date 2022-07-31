@@ -1,0 +1,170 @@
+{
+	"name": "Japan",
+	"languages": ['Janpanese'],
+	"theme": {
+		"bg_color": "",
+		"col_1": "",
+		"col_2": ""
+	},
+	"flag": "",
+	"anthem": "",
+	"capital": "Tokyo",
+	"population": "",
+	"area": "",
+	"currency" : {
+		"name": "",
+		"img": ""},
+	"neighbours": {
+		
+		"north": [
+			{"name": "Russia","flag": ""},
+			{"name": "China", "flag": ""},
+			{"name": "South Korea","flag": ""},
+			{"name": "North Korea","flag": ""}
+		],
+		"south": [{"name": "Philippine Sea"}],
+		"east":  [{"name": "Pacific Ocean"}],
+		"west":  [{"name": "East China Sea"}]
+	},
+	"weather": {
+		
+		"summer": {"content": "","icons": [],"img": ""},
+		"winter": {},
+		"spring": {},
+		"automn": {},
+		"summary": ""
+	},
+	"art": [
+	
+		{
+			"title": "",
+			"img": "",
+			"content": ""
+		}
+	],
+	"food": [
+	
+		{
+			"title": "Buta-no-Shogayaki ( Ginger Pork )",
+			"img": "",
+			"content": "Most Common Dish In Japan, a Grilled Thin Slices Of Pork Dressed With a Delicate Sance Of Mirin, Soy Sauce, Sake, Granola Oil Mixed With Sliced Onions and ginger"
+		},
+		{
+			"title": "Champon",
+			"img": "",
+			"content": "a Traditional Noodle Dish, Appeared In Meiji Era ( 1868 - 1912 ), Loaded With Various and Colorful Ingredients, Soaked In Warm Soup"
+		},
+	],
+	"landmarks": [
+	
+		{
+			"title": "Arashiyama",
+			"img": "",
+			"content": "Myth Said That This Foest was Planted To Protect Surroundings Temples From Evil",
+			"location": "Kyoto"
+		},
+		{
+			"title": "Kinkaku-Ji",
+			"img": "",
+			"content": "Built In 1408, It Was a Zen Temple Which Was Completely Covered In Gold, Zen Temples Are For Buddhists For Meditating Maintain Inner Peace",
+			"location": "Kyoto"
+		},
+		{
+			"title": "Senso-Ji",
+			"img": "",
+			"content": "The Oldest Temple In all Of Japan, Was Built In 628",
+			"location": "Tokyo"
+		},
+		{
+			"title": "Moutain Fuji",
+			"img": "",
+			"content": "The Highest Moutain In Japan, Was an Active Volcano Which Was Last Erupted During The 18th Century, The Moutain Could Be Seen In a Clear Weather From The Capital Tokyo",
+			"location": "Yamanashi"
+		},
+		{
+			"title": "Osaka Castle",
+			"img": "",
+			"content": "Built In 1583, Located In The Middle of a Beautiful Park, Was Used as a Defensive System",
+			"location": "Osaka Chuo Ward"
+		},
+		{
+			"title": "Tokyo SkyTree",
+			"img": "",
+			"content": "Built In 2012, Is 634 Meters High, Could Have a 360 Degree View To All Japan From Up There, Considered The Second Tallest Tower In The World ( after Burj Khalifa )",
+			"location": "Tokyo"
+		},
+		{
+			"title": "Sushimi Inari Taisha",
+			"img": "",
+			"content": "an Important Japanese Shrine, Located In Western Kyoto and Is More Than 1000 Years Old, Dedicated To Inari Okami The God Of Agriculture",
+			"location": "Kyoto"
+		},
+		{
+			"title": "Hilltop Castle",
+			"img": "",
+			"content": "Built In 17th Century, a Prime Example of Ancient Japanese Castle Architecture",
+			"location": "Himeji"
+		},
+		{
+			"title": "Hiroshima Peace Park",
+			"img": "",
+			"content": "Built For The Memory Of Hiroshima and Nakazaki Atomic Bombs Drop In World War 2, The Park Includes a Museum",
+			"location": "Hiroshima"
+		}
+	],
+	"history": [
+	
+		{
+			"title": "Early History",
+			"content": "Back Then ( Around 3000 B.C. - 300 B.C. ) Japanese Were Farmers, Fishers and Hunters. After Than The Rice Culture Was Imported From Neighbour Countries, The Coutry Parts Were United Under Powerful Land Owners. In 250 The Country Were Finally United as One Country ( Yamato Japan), They Had an Emperor, However a Clan Called ( Soga ) Soon Gain Power Over The Emperor Himself, The Country Had Friendly Relationships With The Kingdom Of Kudara ( Korea ), Buddhism Was Introduced To Japan and Was Promoted To Ruling Class, Also The Writing System Was Imported From China as Prince ( Shotoku ) Was Promoting More and More Chinese Ideas",
+			"year": "?? - 710",
+			"img": ""
+		},
+		{
+			"title": "Nara and Heian Periods",
+			"content": "In 710 Japan Had a New Permenant Capital ( Nara ), However In 784 The Capital Was Moved Once More To Nagaoka and Finally To Heian( Kyoto ) In Which It Remained Capital For More Than a Thousand Years, Back Then The Fujiwara Family Controlled The Political Scene and It's Power Reached The Peak With ( Fujiwara Michinaga ) In 1016, Yet After Than Things Became Less Under Control as Land Owners Hired ( Samurai ) For Protecting Their Properties, This Is How The Military Class Became More Influent and The Fujiwara Era Was Over In 1068 With The New Emperor ( Go-Sanjo ) Was Determined To Rule The Country By Himself, The Insei Government Was The Political Power From 1068 To 1156 When ( Taira kiyomori ) Became Leader To Japan, During This Time 2 Wars Where Held First The ( Early 9 Years War ) and ( Later 3 Years War ) Between Imperial Court - Nominal Ruling Government - and Abe Clan - One Of The Oldest and Major Japanese Clans -, However This Era Was Over After Gempei War Between Thira and Minamoto Clans Which Lasted From 1180 Until 1185",
+			"year": "710 - 1185",
+			"img": ""
+		},
+		{
+			"title": "Kamakura Period",
+			"content": "This Period Started By The Minamoto Family Took Over Control After Gempei Wars, Minamoto Yoritomo Established a New Military Government The ( Kamakura Bakufu ) In Kamakura, By That Time The Emperor Government Was Losing Power and The ( Samurai ) Were The Leading Social Class. By The Year 1259 The Mongols Had Conquered China and Was Theating Japan, The Mongol Invasion Attempt In 1274 and The Second In 1281 Which Was Both Failed Mainly Because Of The Bad Weather. After That The Country Sinked In as Economical Problems Since Many Of The Loyal Men Who Fought For Kamakura Were Waiting For Rewards and The Government Couldn't Pay, By 1333 The Kamakura Bakufu Was Overthrowen By The Emperor ( Go-Daingo )",
+			"year": "1192 - 1333",
+			"img": ""
+		}
+	],
+	"facts": [
+		"Tokyo Is The Most Populated City With Nearly 38.14 Million People In It",
+		"Japan Have a Total Sum Of 110 Active Volcanoes",
+		"Each Year There Are About 1500 Earthquakes, Most Of Them are Minor Ofcourse",
+		"Forests Cover 67% Of Japan",
+		{
+			"title": "Portugal Is The First Country to Visit Japan",
+			"content": "First Besides China and Korea, It Was In 1543 Were The First Ship From Portugal Sealed To Japan, It Started The Naban Trade Era"
+		},
+		{
+			"title": "The World Only Emperor Is In Japan",
+			"content": "Japan Has an Emperor Up Til Now, Despite Having Some Power and Primarily Serves as a Symbolic Figure"
+		}
+	],
+	"resources": [
+		{
+			"resources": [],
+			"author": "",
+			"authorUrl": "",
+			"from": "",
+			"url": "",
+			"social": [
+				{"url": "","icon": ""}
+			]
+		},
+		{
+			"resources": ["Landmarks"],
+			"url": "https://www.destguides.com/en/itineraries/japan/famous-japan-landmarks"
+		},
+		{
+			"resources": ["Facts"],
+			"url": "https://www.theplanetd.com/facts-about-japan"
+		}
+	]
+}
