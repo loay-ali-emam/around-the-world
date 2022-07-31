@@ -9,11 +9,11 @@
 	"flag": 		"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/300px-Flag_of_Egypt.svg.png",
 	"anthem": 		"https://nationalanthems.info/eg.mp3",
 	"capital": 		"Cairo",
-	"population": 	"",
+	"population": 	"63",
 	"area": 		"1,001,00 KM Squared",
 	"currency" : {
 		"name": 	"Egyptian Pound",
-		"img": 		""},
+		"img": 		"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/EGP_200_Pounds_Apr_2007_%28Back%29.jpg/504px-EGP_200_Pounds_Apr_2007_%28Back%29.jpg"},
 	"neighbours": {
 		
 		"north": [{"name": "Red Sea"}],
