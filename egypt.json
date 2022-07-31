@@ -2,12 +2,12 @@
 	"name": "Egypt",
 	"languages": ["Arabic"],
 	"theme": {
-		"bg_color": "",
-		"col_1": "",
-		"col_2": ""
+		"bg_color": "#EFCF83",
+		"col_1": "#624B1C",
+		"col_2": "#54786A"
 	},
-	"flag": 		"",
-	"anthem": 		"",
+	"flag": 		"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/300px-Flag_of_Egypt.svg.png",
+	"anthem": 		"https://nationalanthems.info/eg.mp3",
 	"capital": 		"Cairo",
 	"population": 	"",
 	"area": 		"1,001,00 KM Squared",
