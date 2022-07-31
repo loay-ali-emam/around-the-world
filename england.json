@@ -69,7 +69,7 @@
 		},
 		{"title": "The Beatles",
 		"content": "a Rock Band Formed In 1960 In Liverpool, Is The Best Selling Band In The History, Along Side Many Other Achievements and Awards.",
-		"img": "",
+		"img": ""
 		}
 	],
 	"history": [
@@ -112,7 +112,7 @@
 		"flag": "en.png"},
 		{
 		"title": "The Georgeans",
-		"year" : "1714 - ",
+		"year" : "1714 - "
 		}
 	],
 	"food": [
@@ -226,7 +226,7 @@
 		}
 	],
 	"facts": [
-		{"title": "The Queen Is Not Allowed Into The House Of Commons ( The Parlament )"
+		{"title": "The Queen Is Not Allowed Into The House Of Commons ( The Parlament )",
 		"content": "Back To King Charles I, In January 1642, He Approached The Parliament With Several Amry Soldiers To Arrest 5 MPs Members For Treason, An Action Which Led To Civil War After"},
 		{"title": "Fastest War In History",
 		"content": "They Fought The Fastest War Against East Africa Island ( Zanzibar ), It Lasted Only For 40 Minutes"},
