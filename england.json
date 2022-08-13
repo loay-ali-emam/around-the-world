@@ -8,10 +8,10 @@
 	},
 	"flag": 		"https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/150px-Flag_of_England.svg.png",
 	"capital" : 	"London",
-	"population": 	"63",
+	"population": 	"https://raw.githubusercontent.com/samayo/country-json/master/src/country-by-population.json",
 	"anthem": 		"https://nationalanthems.info/eng!lhg.mp3",
 	"currency": {
-		"name":	"Pound sterling",
+		"name":	"Pound Sterling",
 		"img":	"https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Bank_of_England_%C2%A350_Series_G_obverse.jpg/252px-Bank_of_England_%C2%A350_Series_G_obverse.jpg"
 	},
 	"area":			"132,938 KM Squared",
@@ -73,46 +73,71 @@
 		}
 	],
 	"history": [
-		{"title": "Pre-History",
-		"content": "There Isn't Much To Say About This Period Of Time, How Man Kind Reached English Lands Is Not Certain Fact, People Lived In Groups Known As (Tribes) In Which They Had To Fight Each Other.",
-		"year": "?? - 43 A.D.",
-		"img": ""},
-		
-		{"title": "Romans",
-		"img": "",
-		"year": "43 A.D. - C.410",
-		"content": "By The Year 43 A.D. It Was The Roman Invasion Of England, Took Them Years To Fully Conquer England, Transfering Latin Language, Building Cities, Roads and Making Laws, However Roman Couldn't Invaide Scoutland, They've Built The Hadrian's Wall To Protect Them From Scoutish Tribes. In Late C.410 Roman Soldiers Began To Leave England Giving The Way For Angelo-Saxon To Arrive."},
-		
-		{"title": "Angelo-Saxon",
-		"img": "",
-		"year": "410 - 793",
-		"content": "after Romans Left England The Angelo-Saxon ( Empire From Germany, Netherlands and Denmark ) Invaded England, Building Their Villages Near Rivers and Sea, Using Wood To Build It, Separating The Country into 7 Kingdoms, each Kingdom Has It's Own King, In This Era Slavery Existed, Slaves Used To Work For Their Masters For Food. By That Time Groups From North ( Norway, Sweden and Denmark ) Called ( Vikings ) Was Trying To Invade England, Fighting So Many Wars, Giving a Part Of The Country To Vikings For Piece."},
-		
-		{"title": "Vikings",
-		"img": "",
-		"year": "793 - 1066",
-		"content": "Vikings are a Group of People From Norway, Sweden and Denmark. The Vikings Fought the Anglo-Saxon In Many Many Battles, Some Vikings Were Named Kings In England In This Era, However They Didn't Last Long as The Anglo-Saxon Were Fighting Them Back and Finally They Falled Back as The King Edward (an Anglo-Saxon) Rules England."},
-		
-		{"title": "The Normans",
-		"year": "1066 - 1485",
-		"content": "as King Edward Died They Were Looking For The Next King, and as He Did Not Have any Children They Let King Harold ( One Of The Nobles ) Rule, However King Harold's Cousin William - From Norman In North Of France - Believed He Is The Rightful King, So In October 1066 He Brought a Big Norman Army To France, Fighting Each Other In The Battle OF Hastings and as William The Conquerer - What He Was Named After - Won The Battle He Became The First Norman King To England. By That Time a Killer Disease Showed In England Killing Nearly 37.5% Of The Population.",
-		"img": "",
-		"flag": "en.png"},
-		
-		{"title": "Tudors",
-		"year": "1485 - 1603",
-		"content": "From 1455 and For Nearly 30 Years, Many Terrible Battles Were Held Between People Who Wanted a Different Family To Rule, In 1485 Henry Tudor Became The King ( Henry The Seventh ), In Second Half Of The Sixteenth Century ( In Queen's Elizabeth Era ) Theatres Were Made Popular To People, Many Books, Peotries and Plays Were Written By That Time, William Shakespeare Was One Of The Best Plays and Poetries Writer and Considered The Best Til Now.",
-		"img": "",
-		"flag": "en.png"},
-		
-		{"title": "Stuarts",
-		"year": "1603 - 1714",
-		"content": "After Queen Elizebeth Died In 1603 Kings and Queens Called The Stuarts To Rule - Were From Scotland - It Was The First Time England and Scotland Were One Kingdom, In 1642 - Under King Charles The First Era - a Civil War Took Place For Nearly 7 Years Between The King's Men and The Parliament's Men Which The Parliaments Won With Teir Leader Oliver Cromwell and King Charles Was Executed, By That Time Large Parts Of London Were Burnt In The Great Fire Of London and England Started Its First Colonies In Different Places In The World Like America, In 1707 The Act Of Union Brought England, Wales and Scotland In What It's Known Now as Great Britain.",
-		"img": "",
-		"flag": "en.png"},
 		{
-		"title": "The Georgeans",
-		"year" : "1714 - "
+			"title": "Pre-History",
+			"content": "There Isn't Much To Say About This Period Of Time, How Man Kind Reached English Lands Is Not Certain Fact, People Lived In Groups Known As (Tribes) In Which They Had To Fight Each Other.",
+			"year": "?? - 43 A.D.",
+			"img": ""
+		},
+		{
+			"title": "Romans",
+			"img": "",
+			"year": "43 A.D. - C.410",
+			"content": "By The Year 43 A.D. It Was The Roman Invasion Of England, Took Them Years To Fully Conquer England, Transfering Latin Language, Building Cities, Roads and Making Laws, However Roman Couldn't Invaide Scoutland, They've Built The Hadrian's Wall To Protect Them From Scoutish Tribes. In Late C.410 Roman Soldiers Began To Leave England Giving The Way For Angelo-Saxon To Arrive."
+		},
+		{
+			"title": "Angelo-Saxon",
+			"img": "",
+			"year": "410 - 793",
+			"content": "after Romans Left England The Angelo-Saxon ( Empire From Germany, Netherlands and Denmark ) Invaded England, Building Their Villages Near Rivers and Sea, Using Wood To Build It, Separating The Country into 7 Kingdoms, each Kingdom Has It's Own King, In This Era Slavery Existed, Slaves Used To Work For Their Masters For Food. By That Time Groups From North ( Norway, Sweden and Denmark ) Called ( Vikings ) Was Trying To Invade England, Fighting So Many Wars, Giving a Part Of The Country To Vikings For Piece."
+		},
+		{
+			"title": "Vikings",
+			"img": "",
+			"year": "793 - 1066",
+			"content": "Vikings are a Group of People From Norway, Sweden and Denmark. The Vikings Fought the Anglo-Saxon In Many Many Battles, Some Vikings Were Named Kings In England In This Era, However They Didn't Last Long as The Anglo-Saxon Were Fighting Them Back and Finally They Falled Back as The King Edward (an Anglo-Saxon) Rules England."
+		},
+		{
+			"title": "The Normans",
+			"year": "1066 - 1485",
+			"content": "as King Edward Died They Were Looking For The Next King, and as He Did Not Have any Children They Let King Harold ( One Of The Nobles ) Rule, However King Harold's Cousin William - From Norman In North Of France - Believed He Is The Rightful King, So In October 1066 He Brought a Big Norman Army To France, Fighting Each Other In The Battle OF Hastings and as William The Conquerer - What He Was Named After - Won The Battle He Became The First Norman King To England. By That Time a Killer Disease Showed In England Killing Nearly 37.5% Of The Population.",
+			"img": "",
+			"flag": "en.png"
+		},
+		{
+			"title": "Tudors",
+			"year": "1485 - 1603",
+			"content": "From 1455 and For Nearly 30 Years, Many Terrible Battles Were Held Between People Who Wanted a Different Family To Rule, In 1485 Henry Tudor Became The King ( Henry The Seventh ), In Second Half Of The Sixteenth Century ( In Queen's Elizabeth Era ) Theatres Were Made Popular To People, Many Books, Peotries and Plays Were Written By That Time, William Shakespeare Was One Of The Best Plays and Poetries Writer and Considered The Best Til Now.",
+			"img": "",
+			"flag": "en.png"
+		},
+		{
+			"title": "Stuarts",
+			"year": "1603 - 1707",
+			"content": "After Queen Elizebeth Died In 1603 Kings and Queens Called The Stuarts To Rule - Were From Scotland - It Was The First Time England and Scotland Were One Kingdom, In 1642 - Under King Charles The First Era - a Civil War Took Place For Nearly 7 Years Between The King's Men and The Parliament's Men Which The Parliaments Won With Teir Leader Oliver Cromwell and King Charles Was Executed, By That Time Large Parts Of London Were Burnt In The Great Fire Of London and England Started Its First Colonies In Different Places In The World Like America, In 1707 The Act Of Union Brought England, Wales and Scotland In What It's Known Now as Great Britain.",
+			"img": "",
+			"flag": "en.png"
+		},
+		{
+			"title": "The Georgeans",
+			"year" : "18th Century",
+			"content": "It Was The Century Were The Great Britain Was Born In 1st Of May 1707 After The Treaty Of Union With Queen Anne as The First Queen Of The Unified Nation. Many Wars Took Place During This Century Especially With France, and Alot Of Peace and Allieing With Other Nations Such as Netherlands Who Took Place In The ( 9 Years War ) as Great Britain Side. By That Time The Great English Invasion To Worldwide Was Rising as Britain Was Racing Against Major European For Capturing Lands ( Eg:. India ), and It Had a World Wide Trade Network For So Many Goods Including Slavery From Africa. Yet This Era Wasn't So Glorious, Britain Lost The War Against North America Colonies - Which Led To The Declaration Of Independency - In 1776",
+			"img": "",
+			"flag": "en.png"
+		},
+		{
+			"title": "Victorian Era",
+			"year": "19th Century",
+			"content": "It Was a Remarkable Era In The English History as The Industrial Revolution Begun With The Invention Of The Steam Engine, People Were Shifting From Agriculture To Industry, a Revolution Which Led To a Tremendous Economic and Industrial Growth, People Were Leaving Different Cities To Go To (London) and (Birmingham), Yet It Had Ofcourse It's Downsides With The Underclass Workers - Not So Professional - Getting Paid To Little, Having No Protection Or any Life Quality, Children Were Forced To Work For Living. By That Time Queen Victoria Ruled, From 1837 To 1901 - That's Why It Was Called The Victorian Era - and Ireland Was Merging With The Great Bratain ( Only South Ireland Was Left Independent Till This Day )",
+			"img": "", 
+			"flag": "en.png"
+		},
+		{
+			"title": "Modern History",
+			"year": "20th - 21st Centuries",
+			"content": "an Eventful Century For England, Which Begun With The First World War - 'The Great War' By It's Time -, Great Britain Was Leading The Allied Power Under The King ( George The 5th ), Beside Deathes Due To War, Civilian Death Ratio Rose Because Of Food Shortage and The Spanish Flu, The War Started In 1914 and Ended In 1918 With The Allies Winning Over Germany, Many Years After There Were Signs For a Second World War, It Started In 1st Of September 1939 When Germany Invaded ( Poland ) and Broken The Contract Between Them Britain and France Declared The War Against Nazi Germany, It The Beginning Great Britain Called For It's Forces Around The World ( Austrillia, Canada, South Africa, New Zealand, India and Other Colonies ), Shortly After Italy Joined Germany Followed By Japan and Some Other Nations, However When USA and Russia Joined The Allies Things Were Already In Favor Of The Allies, The War Ended In 1945 and The Allies Won",
+			"img": "", 
+			"flag": "en.png"			
 		}
 	],
 	"food": [

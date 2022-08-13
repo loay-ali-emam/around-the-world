@@ -9,11 +9,11 @@
 	"flag": 		"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/300px-Flag_of_Egypt.svg.png",
 	"anthem": 		"https://nationalanthems.info/eg.mp3",
 	"capital": 		"Cairo",
-	"population": 	"61",
+	"population": 	"",
 	"area": 		"1,001,00 KM Squared",
 	"currency" : {
 		"name": 	"Egyptian Pound",
-		"img": 		"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/EGP_200_Pounds_Apr_2007_%28Back%29.jpg/504px-EGP_200_Pounds_Apr_2007_%28Back%29.jpg"},
+		"img": 		""},
 	"neighbours": {
 		
 		"north": [{"name": "Red Sea"}],
@@ -41,14 +41,6 @@
 					
 		"summary": "The Average Weather In Egypt Is Sunny and Cool, However It May Be Very Hot In The South"
 	},
-	"art": [
-	
-		{
-			"title": "",
-			"img": "",
-			"content": ""
-		}
-	],
 	"food": [
 	
 		{
@@ -145,10 +137,42 @@
 	],
 	"history": [
 	
-		{"title": "",
-		"content": "",
-		"year": "",
-		"img": ""}
+		{
+			"title": "Pre-History",
+			"content": "This Period Of Time Is Uncertain and We Are Not Sure When It Was Started When Man Kind Seatled On The Sides Of The Nile, People Back Then Were Hunters, Gathers and Fishermen, Life By That Time Was Centered Around The Nile River. The Egytians Then Were Divided Into Northern and Sourthern, Some Vessels Were Found Which Was Dated To About 3200 B.C. That Belongs To The Southerns.",
+			"year": "?? - 3150 B.C.",
+			"img": ""
+		},
+		{
+			"title": "Dynastic Egypt",
+			"year": "3150 B.C. - 332 B.C.",
+			"img": "",
+			"content": "This Is The Period When Egyptian Civilaztion Begins, Starting By a Unity Between The Northerns and Southerns By King ( Menes ), He Became The First King To Rule All Egypt, Making ( Tiba ) His Capital, This Is Consuderer The Peak Era In The Egyptian History and Especially During The Region OF Pharaoh Amenemhat III, This Era Was Divided Into Three Periods ( Old kingdom ), ( Middle Kingdom ) and ( New Kingdom ). Egyptians Start Using The ( Hieroglyphics ) a Form Of Writing That Used Images - Probably The First Known Alphabatical -, Making New Methods and Ways To Organize and Manage Lands and Foods, New Methods and Tools Were Made To Help In Agricultural Such as Canals and Levees, Begun To Build Cities, Tombs and Major Buildings, The Great Pyramids In Giza Was Built In The Old Kingdom, They Were Not The First Neither The Last To Be Built, Egyptian Built Boats For Trading With Other Nations Around, In Around 1650 B.C. The Hyksos Invaded Egypt, It Was The End Of The Middle Kingdom. The New Kingdom Started With The Explusion Of The Hyksos From Egypt, However It's End In 332 B.C. When Alexander The Great Conquered It"
+		},
+		{
+			"title": "Greek and Roman Egypt",
+			"year": "332 B.C. - 639 A.C.",
+			"img": "",
+			"content": "After Alexander Death His Empire Split Into Parts, It's When Greek General Called Ptolemy Eventually Took Egypt and For About 300 Years His Greek Descendeants Ruled Egypt However In 30 B.C. Egypt Became a Province Of The Roman Empire and Ceased To Be an Independent Empire and It Happened To Be Splited Into Two, Egypt Was Part Of The Eastern Half, Known To Us as The Byzantine Empire, Importing Christianity To Egypt, However This Era Came To an End When Muslims Conquered It In 639"
+		},
+		{
+			"title": "Arabian Era",
+			"year": "639 - 1517",
+			"img": "",
+			"content": "Egypt Had Become Part Of an islamic Empire and Was Ruled By Baghdad, However In 868 and Administrator Called Ahmed Ibn Tulun Declared Egypt Independent But Independence Did Not Last Long, His Son and Successor Was Assassinated. In 969 Egypt Was Conquered By The Fatimids Of Tunisia, The Fatimids Ruled Egypt Until 1171 and They Built Cairo, Which Became The Capital Till Our Time, By That Time ( Salah al din ) Known In The West as ( Saladin ) Became Ruler Of Egypt, He Founded a Dynasity Called The Ayyubids Who Ruled Egypt For Nearly 80 Years. Then The Country Was Ruled By Mamluks Until 1517, This Period Of Time Was Known For Egypt as a Rich and Powerful Era However It Was Over When The Ottoman Turks Conquered Egypt"
+		},
+		{
+			"title": "Ottomons and Mohamed Ali's Era",
+			"year": "1517 - 1952",
+			"img": "",
+			"content": "Ottomons Ruled Egypt For Almost 400 Years, It was a Peaceful Time As Both Nations -( Egypt ) & The ( Ottomons )- Were Muslims. In 1798 a French Army Led By Napoleon Landed At Egypt First In Alexandria, However Napoleon Abandoned His Army and Left Egypt, After That The Ottomons and French Both Fought The French The Forced Them Out Of The Country, By That Time The Country Was Under The Mumluks Power, However a Man Called ( Mohammed Ali ) Became The Ruler Of Egypt and Sudan, He Invited All Mumluks To His Castle and Then Order To Kill Them, Mohamed ali's Period Was Considered a Rise, Factories and Shipyards Were Built Amoung Other Economical Upgrades, However He Died In 1849, and As He Was The King Of Egypt The Ruler Was One Of His Sons. After That Egypt Was More Modernized By His Incestors Like ( Khedive Ismail ) Who Made Postal Service and Railways and Ofcourse The Suez Canal, This Great Period Of Time Eventually Ended With The British Army Invading Egypt In 1882 For Obvious Reasons, Kepping The Khedive - The King - as a Puppet Ruler. After The First World War British Began To Lose Control Over It's Territories and Eventually Dividing The Ariabian Area Into What We See Now On The Map and They Declared Egypt as an Independent State and Finally Withdrawn From Egypt In 1947. In "
+		},
+		{
+			"title": "Modern History",
+			"year": "1952 - Present",
+			"img": "",
+			"content": "In 1948 Things Were Getting Out Of Hand For King Farouk When He Lost Fighting Against The Invasion If Palestine, In 1952 a Group Of Officers Decided To Overthrowing King Farouk and They Changed The Rulling System To Republic, For The Next Six Decades 4 Presidents Came - all From The Military - First ( Mohamed Naguib ), Then ( Gamal Abd-elnasser ) Who Had Finished Building The Great Dam In Aswan, Nationalizing Suez Canal, However He Had Lost All Battles In His Era and ( Anwar El-sadat ) Was Incharge In 1970 When ( Gamal Abd-elnasser ) Was Poisoned, ( Anwar El-saddat ) Was Well Known For Winning War Against ( Israel ) Which Had Conquered Sinai In 1967, In 1973 Egypt, Syria and Other Arabian and Islamic Countries Stood Together Against ( Israel ), Brining Back All The Lands In Sinai In 1982, However He Also Had Been Assassinated, After Him ( Hosney Mubark ) Was The President For 30 Years Starting From 1981 Until 2011 When He Left During The Egyptian Revolution In 25 January 2011"
+		}
 	],
 	"facts": [
 		"Egyptians are First To Discover Paper and Ink",

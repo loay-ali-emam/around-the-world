@@ -1,6 +1,6 @@
 {
 	"name": "Japan",
-	"languages": ['Janpanese'],
+	"languages": ["Janpanese"],
 	"theme": {
 		"bg_color": "",
 		"col_1": "",
@@ -37,9 +37,19 @@
 	"art": [
 	
 		{
-			"title": "",
+			"title": "Anime and Manga",
+			"img": "",
+			"content": "Manga Is The Japanese Comics, Been There For a Long Time and Been Lately Spreaded Out Into The World, Has Been The Major Part Of Japanese Publish Industry, Anime Came Later On ( Word 'Anime' Is English Short Term For Animation ) and Also Quickly Got Into The World, an Industry Consists Of Over 400 Production Companies"
+		},
+		{
+			"title": "Theatre",
 			"img": "",
 			"content": ""
+		},
+		{
+			"title": "Technology",
+			"img": "",
+			"content": "Known For It's Major Technology Achievements, Japan Had Been Developing In Science and Technology Since The Meiji Period Yet Gotten Into It After WW 2, Right Now Japan Advanced In Automotive Engines, Monitors, Video Games, Optical Clocks, Robotics, Natural Science, Aerospace Exploration and Biomedical Researches"
 		}
 	],
 	"food": [
@@ -54,6 +64,36 @@
 			"img": "",
 			"content": "a Traditional Noodle Dish, Appeared In Meiji Era ( 1868 - 1912 ), Loaded With Various and Colorful Ingredients, Soaked In Warm Soup"
 		},
+		{
+			"title": "Gyoza",
+			"img": "",
+			"content": "a Moon-shaped Dumplings Dish, You Could Almost Find It In Any Restaurant In Japan, The Dish Was Imported From China However Was Modified To Different Types"
+		},
+		{
+			"title": "Dyudon",
+			"img": "",
+			"content": "a Bowel Of Steamed Rice Topped With Thinly Sliced Beef and Tender Onion and Served With Mirin and Soy Sauce Or Eggs ( 'Gyu' Means Beef By The Way )"
+		},
+		{
+			"title": "Gyukatsu (Beef Cutlet)",
+			"img": "",
+			"content": "a Flavorful Dish Of Deep-fried Breaded Beef, Served With Cabbago, Barley Rice, Miso Soup, Potato Salad and Pickles"
+		},
+		{
+			"title": "Karaage (Fried Chicken)",
+			"img": "",
+			"content": "Depending On The Area You're In It Could Be Meat Instead Of Chicken, Served With Special Spices, Coated In Flour Or Potato Stratch"
+		},
+		{
+			"title": "Katsudon",
+			"img": "",
+			"content": "a Quick Delicious Meal Consist Of a Bowl Of Rice Topped With Deep-fried Pork Cutlet, Egg, Vegetables and Condiments"
+		},
+		{
+			"title": "Onigiri (Famous Rice Ball)",
+			"img": "",
+			"content": "King Of The On-The-Go Food, Could Even Find In Grocery Store, Which Is a Rice Ball Flavored In Spices and Could Be Filled With Variety Of Ingredients"
+		}
 	],
 	"landmarks": [
 	
@@ -130,6 +170,42 @@
 			"title": "Kamakura Period",
 			"content": "This Period Started By The Minamoto Family Took Over Control After Gempei Wars, Minamoto Yoritomo Established a New Military Government The ( Kamakura Bakufu ) In Kamakura, By That Time The Emperor Government Was Losing Power and The ( Samurai ) Were The Leading Social Class. By The Year 1259 The Mongols Had Conquered China and Was Theating Japan, The Mongol Invasion Attempt In 1274 and The Second In 1281 Which Was Both Failed Mainly Because Of The Bad Weather. After That The Country Sinked In as Economical Problems Since Many Of The Loyal Men Who Fought For Kamakura Were Waiting For Rewards and The Government Couldn't Pay, By 1333 The Kamakura Bakufu Was Overthrowen By The Emperor ( Go-Daingo )",
 			"year": "1192 - 1333",
+			"img": ""
+		},
+		{
+			"title": "Muromachi Period",
+			"content": "This Era Starts With emparor ( Go-Daigo ) Restoring Imperial Power and He Had Overthrowen The Kamakuru . a Little While After ( Ashikaga Tokauji ) Once Fought For The Emperor Now Challenged The Imperial Court and Succeeded For Capturing Kyoto as He Did In 1336 and ( Go-Diago ) Fled To Yoshino, By 1338 Takauji Established His Government In Kyoto and By That Time Two Imperial Courts Were In Japan The Southern and Northern, They Fought Many Battles Against each Other, However In 1392 The Two Imperial Courts Reunited Under The Emparor. After That The ( Age Of Civil War ) Begun Between Different Parts Of Japan as It Was Destructed. In 1542 The First Portuguese Traders and Jesuit Missionaries Arrived In Kyushu, It Was When Japan Was Introduced To Fire Arms and Christianity. The Country Was In Pieces For Many Years Unitl ( Oda Nobunagu ) Managed To Take The First Steps Toward Unity By Capturing ( Kyoto ) In 1568 and Overthrowing The Muromachi Bakufu In 1573.",
+			"year": "1333 - 1573",
+			"img": ""
+		},
+		{
+			"title": "Azuchi-Momoyama Period",
+			"content": "Right After ( Oda Nobunaga ) Took The Capital In 1568, He Was Continuing His Elimination Over His Enemies Including The Buddhist Sects, However In 1582 General ( Akechi ) Murdered ( Nobunaga ) and Captured His Castle, He Was Also Murdered Quickly After That By ( Toyotomi Hideyoshi ) Who Had Finally Unite Japan In 1590 and He Had a CAstle Named ( Osaka ) Built In The Same Year, ( Hideyoshi ) Was Dreaming Of Conquring China, By 1592 His Armies Invaded Korea, In The Following Year However The Japanese Couldn't Hold Against Chinese and Korean So ( Hideyoshi ) Armes Draw Back In 1598 The Year Which He Died In, After That ( Tokugawa Leyasu ) Who Was an Intelligent Partner Of ( Hideyoshi ) Became The Most Powerful Man In Japan.",
+			"year": "1573 - 1603",
+			"img": ""
+		},
+		{
+			"title": "Edo Period",
+			"content": "as Tokugawa Make So Powerful He Wanted To Became The Absolute Ruler Of Japan, In The Battle Of ( Sekigahara ) In 1600, ( Hideyori - The Sucessor Of Hideyoshi -) Defated By Leyasu and Leyasu Was Appointed Shogun By The Emparor and Established His Government In Edo - Tokyo Now - and they Had Ruled Japan For a Remarkable 250 Years, Leyasu Continued In Promoting Foreign Trade, Making Relationships With ( English ) and ( Dutch ), On The Other Hand He Enforced The Supperssion and Persecution Of Christians From 1614, In 1615 When Leyasu Took The Osaka Castle He Had No Rivals Anymore, It Was a Peaceful Era, In 1633 Shogun ( Lemitsu ) Forbaded Travelling Aboard and Almost Completely Isolated Japan as He Regulated Trade With ( China ) and ( Netherlands ) In The Port Of ( Nagasaki ) and Babbing all Foreign Books, Yet Shortly After That a New Arts Were Made Popular Like ( Kabuki ) and ( ukiyo-e ), The Society Was Consisted Of Four Classes On Top The Samurai, Peasants, Artisans and Merchants, However a New Unofficial Class Was Formed By Those Who Had Professions That Were Considered Impure,In 1720 The Ban Of Western Literature Was Canceled and Several New Teachings Entered Japan From ( China ) and ( Europe ), After That The Country Was in an Economical Disaster, Taxes Were Going High and The Merchants Class Were Ranking Up, Things Was Turning More and More Badly For The Government as Many People Wanted a Complete Opening To The World as They Saw It as a Big Advantage and In 1868 Tokugawa Government Fell and The Power Of Emperor Meiji Was Restored.",
+			"year": "1603 - 1868",
+			"img": ""
+		},
+		{
+			"title": "Meiji Period",
+			"content": "When Emperor Meiji Took Over, He Moved From ( Kyoto ) To ( Tokyo ) and It Became The New Capital, The Political Power Now Moved To a Small Group Of Nobles and Former Samuraies, The New Government Aimed To Make Japan a Democratic, All The Feudal Lords Had To Return All Their Lands To The Emperor, The Education System Was Reformed After The ( French ) and Later After The ( German ), a New Army Modelled After The ( Prussian Force ) and a Navy After ( British ) Had One, Many Japanese Were Sent Aboard To Learn Science and Languages, While Foreign Experts Taught In Japan, Also a New Currency System Was Formed Besides The Bank Of Japan After a Big Financial Crisis In 1880. After That Japanese Fought The Chinese In The ( Sino-Japanese ) War Between 1894 and 1895 For an Interests In Korea and Also Fought Against Russians In The ( Russo-Japanese ) War Between 1904-1905 On Interests In Korea and Manchuria In Which They Won Both Battles. In 1912 The Emperor Meiji Died Marking and End Of an Era.",
+			"year": "1868 - 1912",
+			"img": ""
+		},
+		{
+			"title": "Taisho and Early Showa Period",
+			"content": "In The First World War Japan Took a Side Amoung The Allies However They Played a Minor Rule In It. The Economical Situation In Japan Gotten Worse After and The War, During The Year 1930 Military Established Almost Complete Control Over The Government, as The Navy's and Army's Officers Soon Occupied Most Of The Important Position Including The Prime Minister Rule. In 1937 The ( Second Sino-Japanese ) War Was Held, a War That Continued Until 1945 By Japanese Finally Surrendering. In Second World War Japan Joined ( German ) and ( Italy ) Side and In 1941 Japan Attacked Pearl Harbour In USA, Japan Took Control Over Large Areas, It Reached The Indian Borders, After That The U.S. Army Bombed ( Hiroshima ) and ( Nagasaki ) In August 6 and August 9 - 1945 With Atomic Bombs, (Russia) Joined The Allies Against Japan In August 8 and On August 14 Emperor Showa Decided To Surrender and They Was Forced To Give Away All The Lands They Were Accupied Since 1895 and Was Banned From Forming an Army",
+			"year": "1912 - 1945",
+			"img": ""
+		},
+		{
+			"title": "Postwar",
+			"content": "Japan Was Devastated After War, Industries and Trasportation were Damaged. However During The Coldwar USA Wanted to Gain Advantages Over Russians, So They Give Japanese Military Armory and Japan's Self Defense Force Established In 1954, After That Japanese Economy Begun To Grow Higher and Became The One Of The Greatest Nations In Technology.",
+			"year": "1945 - Present",
 			"img": ""
 		}
 	],
